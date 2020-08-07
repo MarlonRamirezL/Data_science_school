@@ -1,5 +1,7 @@
-edad = int(input("Escribe tu edad: ")
-if edad > 17 :
-    print("Eres mayor de edad")
+age = int(input("How old are you?"))
+if age > 17 :
+    print("You are an adult")
 else :
-    print("Eres menor de edad")
+    print("You are not an adult")
+
+
