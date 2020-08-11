@@ -11,7 +11,7 @@ def run():
         else: 
             print ('It is a prime number')
     
-    if number <= 1 :
+    elif number <= 1 :
         print (' It is not a prime number')
 
 
