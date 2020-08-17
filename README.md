@@ -1,3 +1,3 @@
 # Data_science_school
 
-This is a monorepe, here I commit everything I am learning.
+This is a monorepo, here I commit everything I am learning.
